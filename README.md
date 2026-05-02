@@ -91,12 +91,3 @@ public/
   site.webmanifest     Basic web app metadata
 ```
 
-## Notes
-
-- The favicon/logo added in this project is for browser and tab branding, not for the visible page layout.
-- The current content is tailored for a polished portfolio presentation rather than real clinic operations.
-- If you want to adapt this project for a real business, replace all fictional text, imagery, and contact information before publishing.
-
-## Disclaimer
-
-This project is not a real medical website and should not be treated as medical advice, business information, or a live clinic service.
