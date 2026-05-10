@@ -1,44 +1,59 @@
-# DermaGlow Skin Clinic
+# Derma Glow Clinic
 
-DermaGlow Skin Clinic is a premium single-page dermatology website built as a frontend portfolio project. It showcases polished visual design, responsive layout work, reusable component structure, and a production-ready React setup suitable for modern service-brand landing pages.
+## Overview
 
-## Project Purpose
+This repository contains the source code for the demo portfolio website of Derma Glow Clinic, a modern web application showcasing contemporary design and functionality.
 
-This repository was created for portfolio and demonstration use.
+## Description
 
-- The brand, clinic, testimonials, doctors, and business details are fictional.
-- The project is intended to showcase UI design, frontend engineering, and deployment readiness.
-- It can be used as a reference for luxury clinic websites, wellness brands, and high-end marketing landing pages.
+This is a demo portfolio website built to demonstrate best practices in web development, featuring responsive design, interactive elements, and optimized performance.
 
-## What This Project Demonstrates
+## Technologies Used
 
-- Premium hero design with layered visuals and motion
-- Responsive navigation and section-based landing page architecture
-- Reusable UI composition with clean React components
-- Modern styling with Tailwind CSS v4 design tokens
-- Lightweight motion and interaction polish with Framer Motion
-- Deployment-ready setup for Vercel
-
-## Tech Stack
-
-- React 19
-- TanStack Start
-- Vite 7
+- Vite
 - TypeScript
-- Tailwind CSS v4
-- Framer Motion
-- Lucide React
+- React
+- Tailwind CSS (if applicable)
+- Other modern web technologies
 
-## Local Development
+## Getting Started
 
-Install dependencies:
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- Bun package manager
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd Derma_Glow_Clinic
+   ```
+
+2. Install dependencies:
+   ```bash
+   bun install
+   ```
+
+3. Start the development server:
+   ```bash
+   bun run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:5173` (or the port specified by Vite).
+
+## Build
+
+To build the project for production:
 
 ```bash
-npm install
+bun run build
 ```
 
-Recommended runtime:
+## License
 
+<<<<<<< HEAD
 - Node.js 22.12.0 or newer
 
 Start the development server:
@@ -91,3 +106,6 @@ public/
   site.webmanifest     Basic web app metadata
 ```
 
+=======
+This project is for demonstration purposes only and is not licensed for commercial use.
+>>>>>>> 2740f68 (Final Push)
